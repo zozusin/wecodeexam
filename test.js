@@ -7,5 +7,3 @@ const numberfun = () => {
   }
   return numberBox;
 };
-
-console.log(numberfun());
